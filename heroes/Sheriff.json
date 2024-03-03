@@ -1,1 +1,127 @@
-{"name":"Sheriff","class":"","level":0,"maxHp":0,"hp":0,"tempHp":0,"ac":0,"speed":0,"deathSaves":[[]],"hitDice":"d10","hitDiceCount":0,"background":"","alignment":"","inspiration":false,"proficiencyBonus":0,"languages":[],"attributes":[]}
+{
+    "name":"Sheriff",
+    "class":"Fighter",
+    "level": 8,
+    "maxHp": 88,
+    "hp": 88,
+    "tempHp": 0,
+    "ac": 17,
+    "speed": 40,
+    "deathSaves":[
+       [
+          0, 0, 0
+       ],
+       [
+          0, 0, 0
+       ]
+    ],
+    "hitDice":"d10",
+    "hitDiceCount": 8,
+    "background":"Folk Hero",
+    "alignment":"Nuetral Good",
+    "inspiration":false,
+    "proficiencyBonus":3,
+    "languages": [
+       "Common", "Draconic"
+    ],
+    "attributes": [
+       {"name": "strength", "value": 12, "proficient": true},
+       {"name": "dexterity", "value": 20, "proficient": false},
+       {"name": "constitution", "value": 18, "proficient": true},
+       {"name": "intelligence", "value": 11, "proficient": false},
+       {"name": "wisdom", "value": 16, "proficient": false},
+       {"name": "charisma", "value": 9, "proficient": false}
+    ],
+    "skills": [
+        {
+           "name":"acrobatics",
+           "attribute":"dexterity",
+           "proficient":true
+        },
+        {
+           "name":"animal handling",
+           "attribute":"dexterity",
+           "proficient":true
+        },
+        {
+           "name":"arcana",
+           "attribute":"intelligence",
+           "proficient":false
+        },
+        {
+           "name":"athletics",
+           "attribute":"strength",
+           "proficient":false
+        },
+        {
+           "name":"deception",
+           "attribute":"strength",
+           "proficient":false
+        },
+        {
+           "name":"history",
+           "attribute":"intelligence",
+           "proficient":false
+        },
+        {
+           "name":"insight",
+           "attribute":"intelligence",
+           "proficient":true
+        },
+        {
+           "name":"intimidation",
+           "attribute":"intelligence",
+           "proficient":false
+        },
+        {
+           "name":"investigation",
+           "attribute":"intelligence",
+           "proficient":false
+        },
+        {
+           "name":"medicine",
+           "attribute":"intelligence",
+           "proficient":false
+        },
+        {
+           "name":"nature",
+           "attribute":"intelligence",
+           "proficient":false
+        },
+        {
+           "name":"perception",
+           "attribute":"intelligence",
+           "proficient":true
+        },
+        {
+           "name":"performance",
+           "attribute":"intelligence",
+           "proficient":false
+        },
+        {
+           "name":"persuasion",
+           "attribute":"intelligence",
+           "proficient":false
+        },
+        {
+           "name":"religion",
+           "attribute":"intelligence",
+           "proficient":false
+        },
+        {
+           "name":"sleight of hand",
+           "attribute":"dexterity",
+           "proficient":false
+        },
+        {
+           "name":"stealth",
+           "attribute":"dexterity",
+           "proficient":false
+        },
+        {
+           "name":"survival",
+           "attribute":"dexterity",
+           "proficient":true
+        }
+    ]
+ }
