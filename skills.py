@@ -60,6 +60,10 @@ def main():
         elif attribute in [ANIMAL_HANDLING, INSIGHT, MEDICINE, PERCEPTION, SURVIVAL]: attribute = WIS
         elif attribute in [DECEPTION, INTIMIDATION, PERFORMANCE, PERSUASION]: attribute = CHA
 
+        if skill == INTIMIDATION:
+            a = input("Strength? >> ")
+            if a == 's': attribute = STR
+
         if proficient == 't': proficient = True
         else: proficient = False
 

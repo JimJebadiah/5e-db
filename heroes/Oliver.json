@@ -1,1 +1,128 @@
-{"name":"Oliver","class":"","level":0,"maxHp":0,"hp":0,"tempHp":0,"ac":0,"speed":0,"deathSaves":[[]],"hitDice":"d10","hitDiceCount":0,"background":"","alignment":"","inspiration":false,"proficiencyBonus":0,"languages":[],"attributes":[]}
+{
+    "name":"Oliver",
+    "class":"Rune Knight",
+    "level": 8,
+    "maxHp": 76,
+    "hp": 76,
+    "tempHp": 0,
+    "ac": 16,
+    "speed": 30,
+    "deathSaves":[
+       [
+          0,0,0
+       ], [
+        0,0,0
+       ]
+    ],
+    "hitDice":"d10",
+    "hitDiceCount": 8,
+    "background":"Soldier",
+    "alignment":"Nuetral",
+    "inspiration":false,
+    "proficiencyBonus":3,
+    "languages":[
+       "Common",
+       "Draconic",
+       "Giant"
+    ],
+    "attributes":[
+        {"name": "strength", "value": 20, "proficient": true},
+        {"name": "dexterity", "value": 14, "proficient": false},
+        {"name": "constitution", "value": 18, "proficient": true},
+        {"name": "intelligence", "value": 12, "proficient": false},
+        {"name": "wisdom", "value": 0, "proficient": false},
+        {"name": "charisma", "value": 8, "proficient": false}
+    ],
+    "skills":[
+       {
+          "name":"acrobatics",
+          "attribute":"dexterity",
+          "proficient":false
+       },
+       {
+          "name":"animal handling",
+          "attribute":"dexterity",
+          "proficient":false
+       },
+       {
+          "name":"arcana",
+          "attribute":"intelligence",
+          "proficient":false
+       },
+       {
+          "name":"athletics",
+          "attribute":"strength",
+          "proficient":true
+       },
+       {
+          "name":"deception",
+          "attribute":"strength",
+          "proficient":false
+       },
+       {
+          "name":"history",
+          "attribute":"intelligence",
+          "proficient":true
+       },
+       {
+          "name":"insight",
+          "attribute":"intelligence",
+          "proficient":false
+       },
+       {
+          "name":"intimidation",
+          "attribute":"strength",
+          "proficient":true
+       },
+       {
+          "name":"investigation",
+          "attribute":"intelligence",
+          "proficient":false
+       },
+       {
+          "name":"medicine",
+          "attribute":"intelligence",
+          "proficient":false
+       },
+       {
+          "name":"nature",
+          "attribute":"intelligence",
+          "proficient":false
+       },
+       {
+          "name":"perception",
+          "attribute":"intelligence",
+          "proficient":true
+       },
+       {
+          "name":"performance",
+          "attribute":"intelligence",
+          "proficient":false
+       },
+       {
+          "name":"persuasion",
+          "attribute":"intelligence",
+          "proficient":false
+       },
+       {
+          "name":"religion",
+          "attribute":"intelligence",
+          "proficient":false
+       },
+       {
+          "name":"sleight of hand",
+          "attribute":"dexterity",
+          "proficient":false
+       },
+       {
+          "name":"stealth",
+          "attribute":"dexterity",
+          "proficient":false
+       },
+       {
+          "name":"survival",
+          "attribute":"dexterity",
+          "proficient":false
+       }
+    ]
+ }

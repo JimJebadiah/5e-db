@@ -1,6 +1,6 @@
 {
     "name":"Sheriff",
-    "class":"Fighter",
+    "class":"Gunslinger",
     "level": 8,
     "maxHp": 88,
     "hp": 88,
