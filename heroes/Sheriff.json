@@ -40,7 +40,7 @@
         },
         {
            "name":"animal handling",
-           "attribute":"dexterity",
+           "attribute":"wisdom",
            "proficient":true
         },
         {
@@ -55,7 +55,7 @@
         },
         {
            "name":"deception",
-           "attribute":"strength",
+           "attribute":"charisma",
            "proficient":false
         },
         {
@@ -65,12 +65,12 @@
         },
         {
            "name":"insight",
-           "attribute":"intelligence",
+           "attribute":"wisdom",
            "proficient":true
         },
         {
            "name":"intimidation",
-           "attribute":"intelligence",
+           "attribute":"charisma",
            "proficient":false
         },
         {
@@ -80,7 +80,7 @@
         },
         {
            "name":"medicine",
-           "attribute":"intelligence",
+           "attribute":"wisdom",
            "proficient":false
         },
         {
@@ -90,17 +90,17 @@
         },
         {
            "name":"perception",
-           "attribute":"intelligence",
+           "attribute":"wisdom",
            "proficient":true
         },
         {
            "name":"performance",
-           "attribute":"intelligence",
+           "attribute":"charisma",
            "proficient":false
         },
         {
            "name":"persuasion",
-           "attribute":"intelligence",
+           "attribute":"charisma",
            "proficient":false
         },
         {
@@ -120,8 +120,8 @@
         },
         {
            "name":"survival",
-           "attribute":"dexterity",
+           "attribute":"wisdom",
            "proficient":true
         }
-    ]
+     ]
  }

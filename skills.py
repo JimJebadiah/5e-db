@@ -53,12 +53,13 @@ def main():
         s = dict()
         print(skill, end=": ")
         proficient = input ("Proficient >> ")
+        attribute = 'Empty'
 
         if skill in [ATHLETICS]: attribute = STR
         elif skill in [ACROBATICS, SLEIGHT_OF_HAND, STEALTH]: attribute = DEX
         elif skill in [ARCANA, HISTORY, INVESTIGATION, NATURE, RELIGION]: attribute = INT
-        elif attribute in [ANIMAL_HANDLING, INSIGHT, MEDICINE, PERCEPTION, SURVIVAL]: attribute = WIS
-        elif attribute in [DECEPTION, INTIMIDATION, PERFORMANCE, PERSUASION]: attribute = CHA
+        elif skill in [ANIMAL_HANDLING, INSIGHT, MEDICINE, PERCEPTION, SURVIVAL]: attribute = WIS
+        elif skill in [DECEPTION, INTIMIDATION, PERFORMANCE, PERSUASION]: attribute = CHA
 
         if skill == INTIMIDATION:
             a = input("Strength? >> ")
