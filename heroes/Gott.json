@@ -18,7 +18,7 @@
     "hitDice":"d10",
     "hitDiceCount": 8,
     "background":"Soldier",
-    "alignment":"Nuetral",
+    "alignment":"Lawful Neutral",
     "inspiration":false,
     "proficiencyBonus":3,
     "languages":[

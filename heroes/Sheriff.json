@@ -19,7 +19,7 @@
     "hitDice":"d10",
     "hitDiceCount": 8,
     "background":"Folk Hero",
-    "alignment":"Nuetral Good",
+    "alignment":"Neutral Good",
     "inspiration":false,
     "proficiencyBonus":3,
     "languages": [
