@@ -30,7 +30,7 @@
         {"name": "dexterity", "value": 14, "proficient": false},
         {"name": "constitution", "value": 18, "proficient": true},
         {"name": "intelligence", "value": 12, "proficient": false},
-        {"name": "wisdom", "value": 0, "proficient": false},
+        {"name": "wisdom", "value": 10, "proficient": false},
         {"name": "charisma", "value": 8, "proficient": false}
     ],
     "skills": [
