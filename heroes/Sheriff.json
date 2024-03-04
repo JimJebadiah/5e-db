@@ -2,6 +2,7 @@
     "name":"Sheriff",
     "class":"Gunslinger",
     "level": 8,
+    "Race": "Warforged",
     "maxHp": 88,
     "hp": 88,
     "tempHp": 0,
