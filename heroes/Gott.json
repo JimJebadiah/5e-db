@@ -3,10 +3,10 @@
     "class":"Life Cleric",
     "level": 4,
     "race": "Tortle",
-    "maxHp": 0,
-    "hp": 0,
+    "maxHp": 29,
+    "hp": 29,
     "tempHp": 0,
-    "ac": 19,
+    "ac": 18,
     "speed": 30,
     "deathSaves":[
        [
@@ -15,24 +15,25 @@
         0,0,0
        ]
     ],
-    "hitDice":"d10",
-    "hitDiceCount": 8,
+    "hitDice":"d8",
+    "hitDiceCount": 4,
     "background":"Soldier",
     "alignment":"Lawful Neutral",
     "inspiration":false,
-    "proficiencyBonus":3,
+    "proficiencyBonus":2,
     "languages":[
        "Common",
        "Draconic",
-       "Giant"
+       "Sylvan",
+       "Aquan"
     ],
     "attributes":[
-        {"name": "strength", "value": 20, "proficient": true},
-        {"name": "dexterity", "value": 14, "proficient": false},
-        {"name": "constitution", "value": 18, "proficient": true},
-        {"name": "intelligence", "value": 12, "proficient": false},
-        {"name": "wisdom", "value": 10, "proficient": false},
-        {"name": "charisma", "value": 8, "proficient": false}
+        {"name": "strength", "value": 18, "proficient": true},
+        {"name": "dexterity", "value": 8, "proficient": false},
+        {"name": "constitution", "value": 10, "proficient": true},
+        {"name": "intelligence", "value": 13, "proficient": false},
+        {"name": "wisdom", "value": 20, "proficient": true},
+        {"name": "charisma", "value": 13, "proficient": true}
     ],
     "skills": [
         {
