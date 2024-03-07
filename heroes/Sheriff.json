@@ -34,95 +34,139 @@
        {"name": "charisma", "value": 9, "proficient": false}
     ],
     "skills": [
-        {
-           "name":"acrobatics",
-           "attribute":"dexterity",
-           "proficient":true
-        },
-        {
-           "name":"animal handling",
-           "attribute":"wisdom",
-           "proficient":true
-        },
-        {
-           "name":"arcana",
-           "attribute":"intelligence",
-           "proficient":false
-        },
-        {
-           "name":"athletics",
-           "attribute":"strength",
-           "proficient":false
-        },
-        {
-           "name":"deception",
-           "attribute":"charisma",
-           "proficient":false
-        },
-        {
-           "name":"history",
-           "attribute":"intelligence",
-           "proficient":false
-        },
-        {
-           "name":"insight",
-           "attribute":"wisdom",
-           "proficient":true
-        },
-        {
-           "name":"intimidation",
-           "attribute":"charisma",
-           "proficient":false
-        },
-        {
-           "name":"investigation",
-           "attribute":"intelligence",
-           "proficient":false
-        },
-        {
-           "name":"medicine",
-           "attribute":"wisdom",
-           "proficient":false
-        },
-        {
-           "name":"nature",
-           "attribute":"intelligence",
-           "proficient":false
-        },
-        {
-           "name":"perception",
-           "attribute":"wisdom",
-           "proficient":true
-        },
-        {
-           "name":"performance",
-           "attribute":"charisma",
-           "proficient":false
-        },
-        {
-           "name":"persuasion",
-           "attribute":"charisma",
-           "proficient":false
-        },
-        {
-           "name":"religion",
-           "attribute":"intelligence",
-           "proficient":false
-        },
-        {
-           "name":"sleight of hand",
-           "attribute":"dexterity",
-           "proficient":false
-        },
-        {
-           "name":"stealth",
-           "attribute":"dexterity",
-           "proficient":false
-        },
-        {
-           "name":"survival",
-           "attribute":"wisdom",
-           "proficient":true
-        }
-     ]
+      {
+         "name":"acrobatics",
+         "attribute":"dexterity",
+         "proficient":true
+      },
+      {
+         "name":"animal handling",
+         "attribute":"wisdom",
+         "proficient":true
+      },
+      {
+         "name":"arcana",
+         "attribute":"intelligence",
+         "proficient":false
+      },
+      {
+         "name":"athletics",
+         "attribute":"strength",
+         "proficient":false
+      },
+      {
+         "name":"deception",
+         "attribute":"charisma",
+         "proficient":false
+      },
+      {
+         "name":"history",
+         "attribute":"intelligence",
+         "proficient":false
+      },
+      {
+         "name":"insight",
+         "attribute":"wisdom",
+         "proficient":true
+      },
+      {
+         "name":"intimidation",
+         "attribute":"charisma",
+         "proficient":false
+      },
+      {
+         "name":"investigation",
+         "attribute":"intelligence",
+         "proficient":false
+      },
+      {
+         "name":"medicine",
+         "attribute":"wisdom",
+         "proficient":false
+      },
+      {
+         "name":"nature",
+         "attribute":"intelligence",
+         "proficient":false
+      },
+      {
+         "name":"perception",
+         "attribute":"wisdom",
+         "proficient":true
+      },
+      {
+         "name":"performance",
+         "attribute":"charisma",
+         "proficient":false
+      },
+      {
+         "name":"persuasion",
+         "attribute":"charisma",
+         "proficient":false
+      },
+      {
+         "name":"religion",
+         "attribute":"intelligence",
+         "proficient":false
+      },
+      {
+         "name":"sleight of hand",
+         "attribute":"dexterity",
+         "proficient":false
+      },
+      {
+         "name":"stealth",
+         "attribute":"dexterity",
+         "proficient":false
+      },
+      {
+         "name":"survival",
+         "attribute":"wisdom",
+         "proficient":true
+      }
+    ],
+    "weapons": [
+      {
+         "name": "Pepperbox",
+         "damageDice": "d10",
+         "damageDiceAmount": 1,
+         "damageModifiers": [],
+         "proficient": true,
+         "damageType": "peircing",
+         "modifiers": [2],
+         "type": "ranged",
+         "range": 80,
+         "maxRange": 320,
+         "rangeType": "firearm",
+         "rounds": 6,
+         "loaded": 6,
+         "status": "good"
+      },
+      {
+         "name": "Pepperbox",
+         "damageDice": "d10",
+         "damageDiceAmount": 1,
+         "damageModifiers": [],
+         "proficient": true,
+         "damageType": "peircing",
+         "modifiers": [2],
+         "type": "ranged",
+         "range": 80,
+         "maxRange": 320,
+         "rangeType": "firearm",
+         "rounds": 6,
+         "loaded": 6,
+         "status": "good"
+      },
+      {
+         "name": "Shortsword",
+         "damageDice": "d6",
+         "damageDiceAmount": "1",
+         "damageModifiers": [],
+         "proficient": true,
+         "damageType": "slashing",
+         "modifiers": [2],
+         "type": "melee"
+      }
+    ]
  }
