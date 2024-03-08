@@ -165,7 +165,7 @@
          "damageModifiers": [],
          "proficient": true,
          "damageType": "slashing",
-         "modifiers": [2],
+         "modifiers": [],
          "type": "melee",
          "attribute": "dexterity"
       }
