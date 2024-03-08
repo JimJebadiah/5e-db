@@ -166,7 +166,8 @@
          "proficient": true,
          "damageType": "slashing",
          "modifiers": [2],
-         "type": "melee"
+         "type": "melee",
+         "attribute": "dexterity"
       }
     ]
  }
