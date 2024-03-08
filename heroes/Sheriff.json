@@ -80,5 +80,11 @@
          "type": "melee",
          "attribute": "dexterity"
       }
+    ],
+    "inventory": [
+      {"name": "Tinker's Tools", "description": "", "amount": 1},
+      {"name": "Leather Armor", "description": "", "amount": 1},
+      {"name": "Scorpion", "description": "", "amount": 1},
+      {"name": "Bullets", "description": "", "amount": 28}
     ]
  }
