@@ -52,7 +52,7 @@
     {
       "name": "Bullets",
       "description": "asdf",
-      "count": 29,
+      "count": 26,
       "ammunitionType": "bullet"
     }
   ],
@@ -72,7 +72,7 @@
       "maxRange": 320,
       "rangeType": "firearm",
       "rounds": 6,
-      "loaded": 3,
+      "loaded": 6,
       "status": "operational"
     },
     {
