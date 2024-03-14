@@ -37,25 +37,22 @@
     {
       "name": "Tinker's Tools",
       "description": "",
-      "ammunition": false,
       "count": 1
     },
     {
       "name": "Leather Armor",
       "description": "",
-      "ammunition": false,
       "count": 1
     },
     {
       "name": "Scorpion",
       "description": "",
-      "ammunition": false,
       "count": 1
     },
     {
       "name": "Bullets",
       "description": "",
-      "ammunition": false,
+      "ammunitionType": "bullet",
       "count": 30
     }
   ],
