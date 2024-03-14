@@ -23,7 +23,7 @@
   "hitDice": "d10",
   "hitDiceCount": 8,
   "background": "Folk Hero",
-  "alignment": "Neutral Good?",
+  "alignment": "Neutral Good",
   "inspiration": false,
   "proficiencyBonus": 4,
   "proficientSkills": [
