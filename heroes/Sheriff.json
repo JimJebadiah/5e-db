@@ -5,7 +5,7 @@
   "race": "Warforged",
   "maxHp": 88,
   "hp": 32,
-  "tempHp": 15,
+  "tempHp": 0,
   "ac": 17,
   "speed": 40,
   "deathSaves": [
