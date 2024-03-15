@@ -130,6 +130,13 @@
       "chargeModifier": 1,
       "rechargeOn": "short",
       "attribute": "wisdom"
+    },
+    {
+      "name": "a",
+      "description": "a",
+      "charges": 0,
+      "chargeModifier": 0,
+      "rechargeOn": "short"
     }
   ],
   "attributes": [
