@@ -52,7 +52,7 @@
     {
       "name": "Bullets",
       "description": "asdf",
-      "count": 26,
+      "count": 23,
       "ammunitionType": "bullet"
     },
     {
@@ -77,8 +77,8 @@
       "maxRange": 320,
       "rangeType": "firearm",
       "rounds": 6,
-      "loaded": 3,
-      "status": "jammed"
+      "loaded": 6,
+      "status": "operational"
     },
     {
       "name": "Pepperbox",
