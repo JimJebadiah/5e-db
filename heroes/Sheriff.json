@@ -25,7 +25,7 @@
   "background": "Folk Hero",
   "alignment": "Neutral Good",
   "inspiration": false,
-  "proficiencyBonus": 4,
+  "proficiencyBonus": 3,
   "proficientSkills": [
     "acrobatics",
     "animal_handling",
