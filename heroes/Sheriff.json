@@ -112,6 +112,10 @@
     {
       "name": "Gunner",
       "description": "You have a quick hand and keen eye when employing firearms, granting you the following benefits:\n- Increase your Dexterity score by 1, to a maximum of 20.\n- You gain proficiency with firearms\n- You ignore the loading property of firearms.\n-Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n"
+    },
+    {
+      "name": "Mobile",
+      "description": "You are exceptionally speedy and agile. You gain the following benefits:\n- Your speed increases by 10 feet.\n- When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.\n- When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.\n"
     }
   ],
   "languages": [
