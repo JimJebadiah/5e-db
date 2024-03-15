@@ -1,130 +1,79 @@
 {
-    "name":"Gott",
-    "class":"Life Cleric",
-    "level": 4,
-    "race": "Tortle",
-    "maxHp": 29,
-    "hp": 29,
-    "tempHp": 0,
-    "ac": 18,
-    "speed": 30,
-    "deathSaves":[
-       [
-          0,0,0
-       ], [
-        0,0,0
-       ]
+  "name": "Gott",
+  "class": "Life Cleric",
+  "level": 4,
+  "race": "Tortle",
+  "maxHp": 29,
+  "hp": 16,
+  "tempHp": 0,
+  "ac": 18,
+  "speed": 30,
+  "deathSaves": [
+    [
+      0,
+      0,
+      0
     ],
-    "hitDice":"d8",
-    "hitDiceCount": 4,
-    "background":"Soldier",
-    "alignment":"Lawful Neutral",
-    "inspiration":false,
-    "proficiencyBonus":2,
-    "languages":[
-       "Common",
-       "Draconic",
-       "Sylvan",
-       "Aquan"
-    ],
-    "attributes":[
-        {"name": "strength", "value": 18, "proficient": true},
-        {"name": "dexterity", "value": 8, "proficient": false},
-        {"name": "constitution", "value": 10, "proficient": true},
-        {"name": "intelligence", "value": 13, "proficient": false},
-        {"name": "wisdom", "value": 20, "proficient": true},
-        {"name": "charisma", "value": 13, "proficient": true}
-    ],
-    "skills": [
-        {
-           "name":"acrobatics",
-           "attribute":"dexterity",
-           "proficient":false
-        },
-        {
-           "name":"animal handling",
-           "attribute":"wisdom",
-           "proficient":false
-        },
-        {
-           "name":"arcana",
-           "attribute":"intelligence",
-           "proficient":false
-        },
-        {
-           "name":"athletics",
-           "attribute":"strength",
-           "proficient":true
-        },
-        {
-           "name":"deception",
-           "attribute":"charisma",
-           "proficient":false
-        },
-        {
-           "name":"history",
-           "attribute":"intelligence",
-           "proficient":true
-        },
-        {
-           "name":"insight",
-           "attribute":"wisdom",
-           "proficient":false
-        },
-        {
-           "name":"intimidation",
-           "attribute":"strength",
-           "proficient":true
-        },
-        {
-           "name":"investigation",
-           "attribute":"intelligence",
-           "proficient":false
-        },
-        {
-           "name":"medicine",
-           "attribute":"wisdom",
-           "proficient":false
-        },
-        {
-           "name":"nature",
-           "attribute":"intelligence",
-           "proficient":false
-        },
-        {
-           "name":"perception",
-           "attribute":"wisdom",
-           "proficient":true
-        },
-        {
-           "name":"performance",
-           "attribute":"charisma",
-           "proficient":false
-        },
-        {
-           "name":"persuasion",
-           "attribute":"charisma",
-           "proficient":false
-        },
-        {
-           "name":"religion",
-           "attribute":"intelligence",
-           "proficient":false
-        },
-        {
-           "name":"sleight of hand",
-           "attribute":"dexterity",
-           "proficient":false
-        },
-        {
-           "name":"stealth",
-           "attribute":"dexterity",
-           "proficient":false
-        },
-        {
-           "name":"survival",
-           "attribute":"wisdom",
-           "proficient":false
-        }
-     ]
- }
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "hitDice": "d8",
+  "hitDiceCount": 4,
+  "background": "Soldier",
+  "alignment": "Lawful Neutral",
+  "inspiration": false,
+  "proficiencyBonus": 2,
+  "proficientSkills": [],
+  "inventory": [],
+  "weapons": [],
+  "feats": [],
+  "languages": [
+    "Common",
+    "Draconic",
+    "Sylvan",
+    "Aquan"
+  ],
+  "abilities": [],
+  "attributes": [
+    {
+      "name": "strength",
+      "value": 18,
+      "proficient": true
+    },
+    {
+      "name": "dexterity",
+      "value": 8,
+      "proficient": false
+    },
+    {
+      "name": "constitution",
+      "value": 10,
+      "proficient": true
+    },
+    {
+      "name": "intelligence",
+      "value": 13,
+      "proficient": false
+    },
+    {
+      "name": "wisdom",
+      "value": 20,
+      "proficient": true
+    },
+    {
+      "name": "charisma",
+      "value": 13,
+      "proficient": true
+    }
+  ],
+  "currency": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}
