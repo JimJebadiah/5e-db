@@ -120,6 +120,10 @@
     {
       "name": "Disarming Shot",
       "description": "When you make a firearm attack against a creature, you can expend one grit point to attempt to shoot an object from their hands. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw or drop 1 held object of your choice and have that object be pushed 10 feet away from you."
+    },
+    {
+      "name": "Trick Shot: Deadeye Shot",
+      "description": "When you make a firearm attack against a creature, you can expend one grit point to gain advantage on the attack roll."
     }
   ],
   "languages": [
