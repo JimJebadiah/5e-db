@@ -54,6 +54,11 @@
       "description": "asdf",
       "count": 26,
       "ammunitionType": "bullet"
+    },
+    {
+      "name": "Walking Bomb",
+      "description": "A metal walking bomb shaped like a chicken",
+      "count": 1
     }
   ],
   "weapons": [
