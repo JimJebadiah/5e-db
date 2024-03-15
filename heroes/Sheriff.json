@@ -125,7 +125,7 @@
   "abilities": [
     {
       "name": "Grit",
-      "description": "You gain a number of grit points equal to your Wisdom modifier (minimum of 1).\nYou regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DMÃÂÃÂ¢ÃÂÃÂÃÂÃÂs discretion).\nYou regain all expended grit points after a short or long rest.",
+      "description": "You gain a number of grit points equal to your Wisdom modifier (minimum of 1).\nYou regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM's discretion).\nYou regain all expended grit points after a short or long rest.",
       "charges": 4,
       "chargeModifier": 1,
       "rechargeOn": "short",
