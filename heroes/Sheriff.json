@@ -82,8 +82,8 @@
       "maxRange": 320,
       "rangeType": "firearm",
       "rounds": 6,
-      "loaded": 6,
-      "status": "operational"
+      "loaded": 0,
+      "status": "broken"
     },
     {
       "name": "Pepperbox",
