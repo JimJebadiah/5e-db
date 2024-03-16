@@ -1,0 +1,224 @@
+{
+  "name": "Sheriff",
+  "class": "Gunslinger",
+  "level": 8,
+  "race": "Warforged",
+  "maxHp": 88,
+  "hp": 88,
+  "tempHp": 0,
+  "ac": 17,
+  "speed": 40,
+  "deathSaves": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "hitDice": "d10",
+  "hitDiceCount": 8,
+  "background": "Folk Hero",
+  "alignment": "Neutral Good",
+  "inspiration": false,
+  "proficiencyBonus": 3,
+  "proficientSkills": [
+    "acrobatics",
+    "animal_handling",
+    "insight",
+    "perception",
+    "survival"
+  ],
+  "inventory": [
+    {
+      "name": "Tinker's Tools",
+      "description": "",
+      "count": 1
+    },
+    {
+      "name": "Leather Armor",
+      "description": "",
+      "count": 1
+    },
+    {
+      "name": "Scorpion",
+      "description": "",
+      "count": 1
+    },
+    {
+      "name": "Bullets",
+      "description": "asdf",
+      "count": 25,
+      "ammunitionType": "bullet"
+    },
+    {
+      "name": "Walking Bomb",
+      "description": "A metal walking bomb shaped like a chicken",
+      "count": 1
+    },
+    {
+      "name": "Hat of Guidance",
+      "description": "This hat is imbued with the spirit of Kregan.\nWhen attuned to this hat, hte wearer can hear his voice pushing them forward and guiding them through tough situations.\nYou can cast the Guidance cantrip on yourself at will, without the need for the Verbal component",
+      "count": 1
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Pepperbox",
+      "damageDice": "d10",
+      "damageDiceAmount": 1,
+      "damageModifiers": [],
+      "proficient": true,
+      "damageType": "peircing",
+      "modifiers": [
+        2
+      ],
+      "type": "ranged",
+      "range": 80,
+      "maxRange": 320,
+      "rangeType": "firearm",
+      "rounds": 6,
+      "loaded": 0,
+      "status": "broken"
+    },
+    {
+      "name": "Pepperbox",
+      "damageDice": "d10",
+      "damageDiceAmount": 1,
+      "damageModifiers": [],
+      "proficient": true,
+      "damageType": "peircing",
+      "modifiers": [
+        2
+      ],
+      "type": "ranged",
+      "range": 80,
+      "maxRange": 320,
+      "rangeType": "firearm",
+      "rounds": 6,
+      "loaded": 6,
+      "status": "operational"
+    },
+    {
+      "name": "Shortsword",
+      "damageDice": "d6",
+      "damageDiceAmount": "1",
+      "damageModifiers": [],
+      "proficient": true,
+      "damageType": "slashing",
+      "modifiers": [],
+      "type": "melee"
+    }
+  ],
+  "feats": [
+    {
+      "name": "Sharpshooter",
+      "description": "You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:\n- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.\n- Your ranged weapon attacks ignore half and three-quarters cover.\n- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage."
+    },
+    {
+      "name": "Gunner",
+      "description": "You have a quick hand and keen eye when employing firearms, granting you the following benefits:\n- Increase your Dexterity score by 1, to a maximum of 20.\n- You gain proficiency with firearms\n- You ignore the loading property of firearms.\n-Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n"
+    },
+    {
+      "name": "Mobile",
+      "description": "You are exceptionally speedy and agile. You gain the following benefits:\n- Your speed increases by 10 feet.\n- When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.\n- When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.\n"
+    },
+    {
+      "name": "Trick Shot: Disarming Shot",
+      "description": "When you make a firearm attack against a creature, you can expend one grit point to attempt to shoot an object from their hands. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw or drop 1 held object of your choice and have that object be pushed 10 feet away from you."
+    },
+    {
+      "name": "Trick Shot: Deadeye Shot",
+      "description": "When you make a firearm attack against a creature, you can expend one grit point to gain advantage on the attack roll."
+    },
+    {
+      "name": "Fighting Style: Archery",
+      "description": "You gain a +2 bonus to attack rolls you make with ranged weapons."
+    },
+    {
+      "name": "Fan the Hammer",
+      "description": "Your guns have been enchanted by Kregan. They are able to unload all rounds in the chamber. \nYou can use this ability after an attack role is made but not before if you know if the attack was successful. \nRoll damage dice equivalent to the number of rounds loaded. \nThis attack does double damage to objects.\nAfter using this, the weapon is considered broken and must be repaired outside of combat at a cost of 1/4 the weapon's cost"
+    },
+    {
+      "name": "Sphynx Bonus",
+      "description": "Healing effects do their maximum amount for 24 hours"
+    }
+  ],
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "abilities": [
+    {
+      "name": "Grit",
+      "description": "You gain a number of grit points equal to your Wisdom modifier (minimum of 1).\nYou regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM's discretion).\nYou regain all expended grit points after a short or long rest.",
+      "charges": 3,
+      "chargeModifier": 0,
+      "rechargeOn": "short",
+      "attribute": "wisdom"
+    },
+    {
+      "name": "Action Surge",
+      "description": "Action Surge Starting at 2nd level, you can push yourself beyond your normal limits for a moment.\n On your turn, you can take one additional action on top of your regular action and a possible bonus\naction. \nOnce you use this feature, you must finish a short or long rest before you can use it again. \nStarting at 17th level, you can use it twice before a rest, but only once on the same turn.\n",
+      "charges": 1,
+      "chargeModifier": 1,
+      "rechargeOn": "long"
+    },
+    {
+      "name": "Second Wind",
+      "description": "You have a limited well of stamina that you can draw on to protect yourself from harm. \nOn your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. \nOnce you use this feature, you must finish a short or long rest before you can use it again.",
+      "charges": 1,
+      "chargeModifier": 1,
+      "rechargeOn": "long"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "strength",
+      "value": 12,
+      "proficient": true
+    },
+    {
+      "name": "dexterity",
+      "value": 20,
+      "proficient": false
+    },
+    {
+      "name": "constitution",
+      "value": 18,
+      "proficient": true
+    },
+    {
+      "name": "intelligence",
+      "value": 11,
+      "proficient": false
+    },
+    {
+      "name": "wisdom",
+      "value": 16,
+      "proficient": false
+    },
+    {
+      "name": "charisma",
+      "value": 9,
+      "proficient": false
+    }
+  ],
+  "currency": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "blockOrder": [
+    0,
+    1,
+    2,
+    3
+  ]
+}
