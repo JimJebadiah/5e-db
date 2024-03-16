@@ -116,10 +116,6 @@
   ],
   "feats": [
     {
-      "name": "Gunner",
-      "description": "You have a quick hand and keen eye when employing firearms, granting you the following benefits:\n- Increase your Dexterity score by 1, to a maximum of 20.\n- You gain proficiency with firearms\n- You ignore the loading property of firearms.\n-Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n"
-    },
-    {
       "name": "Mobile",
       "description": "You are exceptionally speedy and agile. You gain the following benefits:\n- Your speed increases by 10 feet.\n- When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.\n- When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.\n"
     },
@@ -136,16 +132,20 @@
       "description": "Healing effects do their maximum amount for 24 hours"
     },
     {
+      "name": "Gunner",
+      "description": "You have a quick hand and keen eye when employing firearms, granting you the following benefits:\n- Increase your Dexterity score by 1, to a maximum of 20.\n- You gain proficiency with firearms\n- You ignore the loading property of firearms.\n-Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n"
+    },
+    {
       "name": "Fighting Style: Archery",
       "description": "You gain a +2 bonus to attack rolls you make with ranged weapons."
     },
     {
-      "name": "Fan the Hammer",
-      "description": "Your guns have been enchanted by Kregan. They are able to unload all rounds in the chamber. \nYou can use this ability after an attack role is made but not before if you know if the attack was successful. \nRoll damage dice equivalent to the number of rounds loaded. \nThis attack does double damage to objects.\nAfter using this, the weapon is considered broken and must be repaired outside of combat at a cost of 1/4 the weapon's cost"
-    },
-    {
       "name": "Sharpshooter",
       "description": "You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:\n- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.\n- Your ranged weapon attacks ignore half and three-quarters cover.\n- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage."
+    },
+    {
+      "name": "Fan the Hammer",
+      "description": "Your guns have been enchanted by Kregan. They are able to unload all rounds in the chamber. \nYou can use this ability after an attack role is made but not before if you know if the attack was successful. \nRoll damage dice equivalent to the number of rounds loaded. \nThis attack does double damage to objects.\nAfter using this, the weapon is considered broken and must be repaired outside of combat at a cost of 1/4 the weapon's cost"
     }
   ],
   "languages": [
