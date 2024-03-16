@@ -5,7 +5,7 @@
   "race": "Warforged",
   "maxHp": 88,
   "hp": 88,
-  "tempHp": 6,
+  "tempHp": 0,
   "ac": 17,
   "speed": 40,
   "deathSaves": [
@@ -160,7 +160,7 @@
     {
       "name": "Action Surge",
       "description": "Action Surge Starting at 2nd level, you can push yourself beyond your normal limits for a moment.\n On your turn, you can take one additional action on top of your regular action and a possible bonus\naction. \nOnce you use this feature, you must finish a short or long rest before you can use it again. \nStarting at 17th level, you can use it twice before a rest, but only once on the same turn.\n",
-      "charges": 0,
+      "charges": 1,
       "chargeModifier": 1,
       "rechargeOn": "long"
     },
