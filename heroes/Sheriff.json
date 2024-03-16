@@ -142,6 +142,10 @@
     {
       "name": "Fan the Hammer",
       "description": "Your guns have been enchanted by Kregan. They are able to unload all rounds in the chamber. \nYou can use this ability after an attack role is made but not before if you know if the attack was successful. \nRoll damage dice equivalent to the number of rounds loaded. \nThis attack does double damage to objects.\nAfter using this, the weapon is considered broken and must be repaired outside of combat at a cost of 1/4 the weapon's cost"
+    },
+    {
+      "name": "Sphynx Bonus",
+      "description": "Healing effects do their maximum amount for 24 hours"
     }
   ],
   "languages": [
