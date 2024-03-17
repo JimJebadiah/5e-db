@@ -116,6 +116,10 @@
   ],
   "feats": [
     {
+      "name": "Sharpshooter",
+      "description": "You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:\n- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.\n- Your ranged weapon attacks ignore half and three-quarters cover.\n- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage."
+    },
+    {
       "name": "Mobile",
       "description": "You are exceptionally speedy and agile. You gain the following benefits:\n- Your speed increases by 10 feet.\n- When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.\n- When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.\n"
     },
@@ -138,10 +142,6 @@
     {
       "name": "Fighting Style: Archery",
       "description": "You gain a +2 bonus to attack rolls you make with ranged weapons."
-    },
-    {
-      "name": "Sharpshooter",
-      "description": "You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:\n- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.\n- Your ranged weapon attacks ignore half and three-quarters cover.\n- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage."
     },
     {
       "name": "Fan the Hammer",
