@@ -154,19 +154,19 @@
   ],
   "abilities": [
     {
+      "name": "Action Surge",
+      "description": "Action Surge Starting at 2nd level, you can push yourself beyond your normal limits for a moment.\n On your turn, you can take one additional action on top of your regular action and a possible bonus\naction. \nOnce you use this feature, you must finish a short or long rest before you can use it again. \nStarting at 17th level, you can use it twice before a rest, but only once on the same turn.\n",
+      "charges": 1,
+      "chargeModifier": 1,
+      "rechargeOn": "long"
+    },
+    {
       "name": "Grit",
       "description": "You gain a number of grit points equal to your Wisdom modifier (minimum of 1).\nYou regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM's discretion).\nYou regain all expended grit points after a short or long rest.",
       "charges": 3,
       "chargeModifier": 0,
       "rechargeOn": "short",
       "attribute": "wisdom"
-    },
-    {
-      "name": "Action Surge",
-      "description": "Action Surge Starting at 2nd level, you can push yourself beyond your normal limits for a moment.\n On your turn, you can take one additional action on top of your regular action and a possible bonus\naction. \nOnce you use this feature, you must finish a short or long rest before you can use it again. \nStarting at 17th level, you can use it twice before a rest, but only once on the same turn.\n",
-      "charges": 1,
-      "chargeModifier": 1,
-      "rechargeOn": "long"
     },
     {
       "name": "Second Wind",
@@ -217,8 +217,8 @@
   ],
   "blockOrder": [
     1,
+    3,
     0,
-    2,
-    3
+    2
   ]
 }
