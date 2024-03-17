@@ -35,6 +35,12 @@
   ],
   "inventory": [
     {
+      "name": "Bullets",
+      "description": "asdf",
+      "count": 25,
+      "ammunitionType": "bullet"
+    },
+    {
       "name": "Tinker's Tools",
       "description": "",
       "count": 1
@@ -48,12 +54,6 @@
       "name": "Scorpion",
       "description": "",
       "count": 1
-    },
-    {
-      "name": "Bullets",
-      "description": "asdf",
-      "count": 25,
-      "ammunitionType": "bullet"
     },
     {
       "name": "Walking Bomb",
