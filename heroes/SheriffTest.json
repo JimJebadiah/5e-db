@@ -35,6 +35,12 @@
   ],
   "inventory": [
     {
+      "name": "Bullets",
+      "description": "asdf",
+      "count": 25,
+      "ammunitionType": "bullet"
+    },
+    {
       "name": "Tinker's Tools",
       "description": "",
       "count": 1
@@ -43,12 +49,6 @@
       "name": "Walking Bomb",
       "description": "A metal walking bomb shaped like a chicken",
       "count": 1
-    },
-    {
-      "name": "Bullets",
-      "description": "asdf",
-      "count": 25,
-      "ammunitionType": "bullet"
     },
     {
       "name": "Leather Armor",
