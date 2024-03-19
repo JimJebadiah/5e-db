@@ -163,15 +163,15 @@
       "attribute": "wisdom"
     },
     {
-      "name": "Second Wind",
-      "description": "You have a limited well of stamina that you can draw on to protect yourself from harm. \nOn your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. \nOnce you use this feature, you must finish a short or long rest before you can use it again.",
+      "name": "Action Surge",
+      "description": "Action Surge Starting at 2nd level, you can push yourself beyond your normal limits for a moment.\n On your turn, you can take one additional action on top of your regular action and a possible bonus\naction. \nOnce you use this feature, you must finish a short or long rest before you can use it again. \nStarting at 17th level, you can use it twice before a rest, but only once on the same turn.\n",
       "charges": 1,
       "chargeModifier": 1,
       "rechargeOn": "long"
     },
     {
-      "name": "Action Surge",
-      "description": "Action Surge Starting at 2nd level, you can push yourself beyond your normal limits for a moment.\n On your turn, you can take one additional action on top of your regular action and a possible bonus\naction. \nOnce you use this feature, you must finish a short or long rest before you can use it again. \nStarting at 17th level, you can use it twice before a rest, but only once on the same turn.\n",
+      "name": "Second Wind",
+      "description": "You have a limited well of stamina that you can draw on to protect yourself from harm. \nOn your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. \nOnce you use this feature, you must finish a short or long rest before you can use it again.",
       "charges": 1,
       "chargeModifier": 1,
       "rechargeOn": "long"
