@@ -56,13 +56,13 @@
       "count": 1
     },
     {
-      "name": "Hat of Guidance",
-      "description": "This hat is imbued with the spirit of Kregan.\nWhen attuned to this hat, hte wearer can hear his voice pushing them forward and guiding them through tough situations.\nYou can cast the Guidance cantrip on yourself at will, without the need for the Verbal component",
+      "name": "Scorpion",
+      "description": "",
       "count": 1
     },
     {
-      "name": "Scorpion",
-      "description": "",
+      "name": "Hat of Guidance",
+      "description": "This hat is imbued with the spirit of Kregan.\nWhen attuned to this hat, hte wearer can hear his voice pushing them forward and guiding them through tough situations.\nYou can cast the Guidance cantrip on yourself at will, without the need for the Verbal component",
       "count": 1
     }
   ],
@@ -116,10 +116,6 @@
   ],
   "feats": [
     {
-      "name": "Gunner",
-      "description": "You have a quick hand and keen eye when employing firearms, granting you the following benefits:\n- Increase your Dexterity score by 1, to a maximum of 20.\n- You gain proficiency with firearms\n- You ignore the loading property of firearms.\n-Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n"
-    },
-    {
       "name": "Sharpshooter",
       "description": "You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:\n- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.\n- Your ranged weapon attacks ignore half and three-quarters cover.\n- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage."
     },
@@ -136,6 +132,10 @@
       "description": "When you make a firearm attack against a creature, you can expend one grit point to gain advantage on the attack roll."
     },
     {
+      "name": "Gunner",
+      "description": "You have a quick hand and keen eye when employing firearms, granting you the following benefits:\n- Increase your Dexterity score by 1, to a maximum of 20.\n- You gain proficiency with firearms\n- You ignore the loading property of firearms.\n-Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n"
+    },
+    {
       "name": "Fan the Hammer",
       "description": "Your guns have been enchanted by Kregan. They are able to unload all rounds in the chamber. \nYou can use this ability after an attack role is made but not before if you know if the attack was successful. \nRoll damage dice equivalent to the number of rounds loaded. \nThis attack does double damage to objects.\nAfter using this, the weapon is considered broken and must be repaired outside of combat at a cost of 1/4 the weapon's cost"
     },
@@ -149,8 +149,8 @@
     }
   ],
   "languages": [
-    "Common",
     "Draconic",
+    "Common",
     "Sylvan"
   ],
   "abilities": [
@@ -162,19 +162,19 @@
       "rechargeOn": "long"
     },
     {
-      "name": "Second Wind",
-      "description": "You have a limited well of stamina that you can draw on to protect yourself from harm. \nOn your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. \nOnce you use this feature, you must finish a short or long rest before you can use it again.",
-      "charges": 1,
-      "chargeModifier": 1,
-      "rechargeOn": "long"
-    },
-    {
       "name": "Grit",
       "description": "You gain a number of grit points equal to your Wisdom modifier (minimum of 1).\nYou regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM's discretion).\nYou regain all expended grit points after a short or long rest.",
       "charges": 3,
       "chargeModifier": 0,
       "rechargeOn": "short",
       "attribute": "wisdom"
+    },
+    {
+      "name": "Second Wind",
+      "description": "You have a limited well of stamina that you can draw on to protect yourself from harm. \nOn your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. \nOnce you use this feature, you must finish a short or long rest before you can use it again.",
+      "charges": 1,
+      "chargeModifier": 1,
+      "rechargeOn": "long"
     }
   ],
   "attributes": [
@@ -215,6 +215,68 @@
     0,
     0,
     0
+  ],
+  "spellLevels": [
+    {
+      "level": 0,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    },
+    {
+      "level": 1,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    },
+    {
+      "level": 2,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    },
+    {
+      "level": 3,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    },
+    {
+      "level": 4,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    },
+    {
+      "level": 5,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    },
+    {
+      "level": 6,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    },
+    {
+      "level": 7,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    },
+    {
+      "level": 8,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    },
+    {
+      "level": 9,
+      "spellSlots": 0,
+      "maxSpellSlots": 0,
+      "spells": []
+    }
   ],
   "blockOrder": [
     1,
