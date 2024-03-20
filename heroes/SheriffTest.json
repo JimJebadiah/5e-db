@@ -216,68 +216,6 @@
     0,
     0
   ],
-  "spellLevels": [
-    {
-      "level": 0,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    },
-    {
-      "level": 1,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    },
-    {
-      "level": 2,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    },
-    {
-      "level": 3,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    },
-    {
-      "level": 4,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    },
-    {
-      "level": 5,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    },
-    {
-      "level": 6,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    },
-    {
-      "level": 7,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    },
-    {
-      "level": 8,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    },
-    {
-      "level": 9,
-      "spellSlots": 0,
-      "maxSpellSlots": 0,
-      "spells": []
-    }
-  ],
   "blockOrder": [
     1,
     0,
