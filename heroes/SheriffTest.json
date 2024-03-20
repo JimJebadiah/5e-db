@@ -86,16 +86,6 @@
       "status": "operational"
     },
     {
-      "name": "Shortsword",
-      "damageDice": "d6",
-      "damageDiceAmount": "1",
-      "damageModifiers": [],
-      "proficient": true,
-      "damageType": "slashing",
-      "modifiers": [],
-      "type": "melee"
-    },
-    {
       "name": "Pepperbox",
       "damageDice": "d10",
       "damageDiceAmount": 1,
@@ -112,6 +102,16 @@
       "rounds": 6,
       "loaded": 6,
       "status": "operational"
+    },
+    {
+      "name": "Shortsword",
+      "damageDice": "d6",
+      "damageDiceAmount": "1",
+      "damageModifiers": [],
+      "proficient": true,
+      "damageType": "slashing",
+      "modifiers": [],
+      "type": "melee"
     }
   ],
   "feats": [
