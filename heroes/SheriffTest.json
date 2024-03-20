@@ -83,7 +83,7 @@
       "rangeType": "firearm",
       "rounds": 6,
       "loaded": 6,
-      "status": "broken"
+      "status": "operational"
     },
     {
       "name": "Pepperbox",
