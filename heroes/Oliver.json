@@ -4,8 +4,8 @@
   "level": 8,
   "race": "Silver Dragonborn",
   "maxHp": 76,
-  "hp": 76,
-  "tempHp": 99,
+  "hp": 74,
+  "tempHp": 0,
   "ac": 16,
   "speed": 30,
   "deathSaves": [
