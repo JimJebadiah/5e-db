@@ -68,6 +68,7 @@
   ],
   "weapons": [
     {
+      "id": "5cc365e8-54ef-41bf-8e10-575ab1a0bc34",
       "name": "Pepperbox",
       "damageDice": "d10",
       "damageDiceAmount": 1,
@@ -86,6 +87,7 @@
       "status": "operational"
     },
     {
+      "id": "a34f481b-6ecd-4094-ad4d-3b9b19f6e84c",
       "name": "Pepperbox",
       "damageDice": "d10",
       "damageDiceAmount": 1,
@@ -104,6 +106,7 @@
       "status": "operational"
     },
     {
+      "id": "82e0ddb7-cc95-4956-b545-ed11fa1ebc5a",
       "name": "Shortsword",
       "damageDice": "d6",
       "damageDiceAmount": "1",
